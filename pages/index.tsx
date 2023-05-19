@@ -32,7 +32,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       {address ? (
         <>
-          <h1>Mint the NFT of your favorite Season</h1>
+          <h1>Mint the NFT of your Social Message</h1>
           <h3>No gas fee required to mint.</h3>
           <a href="https://testnets.opensea.io/ja/account" target="_blank">You can check your NFT here</a>
           {loading && <p>Loading...</p>}

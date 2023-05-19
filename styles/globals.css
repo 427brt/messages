@@ -16,7 +16,7 @@ a {
 
 
 body {
-  color: #ffffff;
+  color: #3d3c3c;
   background: rgb(204,137,203);
-  background: linear-gradient(0deg, rgba(204,137,203,1) 0%, rgba(191,174,235,1) 48%, rgba(189,174,235,1) 54%, rgba(148,174,233,1) 100%);
+  background: linear-gradient(0deg, rgba(204,137,203,1) 0%, rgba(148,174,233,1) 0%, rgba(235,228,174,1) 100%);
 }
